@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/form_data_user',[\App\Http\Controllers\EmployeeController::class, 'index']);
+Route::post('/form_data_user',[\App\Http\Controllers\EmployeeController::class, 'store'])->name('enter_data');
+Route::put('/user/{id}',[\App\Http\Controllers\EmployeeController::class, 'update']);
