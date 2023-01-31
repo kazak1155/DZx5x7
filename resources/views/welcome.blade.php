@@ -7,6 +7,7 @@
     <title>5.7 Практическая работа</title>
 </head>
 <body>
+
 <div class="flex justify-center mt-4 sm:items-center sm:justify-between">
     <h1>
         5.7 Практическая работа
