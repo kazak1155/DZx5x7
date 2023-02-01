@@ -34,6 +34,11 @@
         <label for="address">Address</label>
         <input type="text" id="address" name="address" class="form-control" required="true">
     </div>
+    <br>
+    <div class="form-group">
+        <label for="work-data">WorkData</label>
+        <textarea  name="workData" class="form-control" required="true"></textarea>
+    </div>
     <br><br><br>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
