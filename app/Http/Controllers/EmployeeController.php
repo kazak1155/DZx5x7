@@ -30,7 +30,7 @@ class EmployeeController extends Controller
             'lastName' => $request->input('lastName'),
             'email' => $request->input('email'),
             'position' => $request->input('position'),
-            'address' => $request->input('residential address')
+            'residential_address' => $request->input('residential_address')
         ];
 //        var_dump(json_decode($request->all()));
 //        echo '<br>';

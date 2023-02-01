@@ -32,7 +32,7 @@
     <br>
     <div class="form-group">
         <label for="residential address">Residential address</label>
-        <input type="text" id="residential address" name="residential address" class="form-control" required="true">
+        <input type="text" id="residential_address" name="residential_address" class="form-control" required="true">
     </div>
     <br>
     <div class="form-group">
