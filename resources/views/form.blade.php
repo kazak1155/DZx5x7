@@ -31,8 +31,8 @@
     </div>
     <br>
     <div class="form-group">
-        <label for="address">Address</label>
-        <input type="text" id="address" name="address" class="form-control" required="true">
+        <label for="residential address">Residential address</label>
+        <input type="text" id="residential address" name="residential address" class="form-control" required="true">
     </div>
     <br>
     <div class="form-group">
