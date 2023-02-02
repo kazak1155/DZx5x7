@@ -37,7 +37,7 @@
     <br>
     <div class="form-group">
         <label for="work-data">WorkData</label>
-        <textarea  name="workData" class="form-control" required="true"></textarea>
+        <textarea name="workData" class="form-control" required="true"></textarea>
     </div>
     <br><br><br>
     <button type="submit" class="btn btn-primary">Submit</button>
